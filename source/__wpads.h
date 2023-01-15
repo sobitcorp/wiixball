@@ -1,0 +1,1 @@
+#define __WPADS_ADDR 0x805a5310
